@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: kartikj69/test:latest
+        image: kartikj69/test:15
         ports:
         - containerPort: 5090
         resources:
